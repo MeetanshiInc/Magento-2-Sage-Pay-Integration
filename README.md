@@ -2,7 +2,7 @@
 
 Online payment security is something that can't be overlooked in an online E-commerce store. Magento 2, which is no exception, requires a system where payments can be captured online securely.
 
-Meetanshi’s Magento 2 Sage Pay Integration lets you integrate your Magento store with Sage Pay Payment Gateway for accepting secured payments from customers.
+Meetanshi’s ***[Magento 2 SagePay Integration](https://meetanshi.com/magento-2-sagepay-integration.html)*** lets you integrate your Magento store with Sage Pay Payment Gateway for accepting secured payments from customers.
 
 Sage Pay Payment Gateway is a PCI DSS Level 1 payment processor. It offers the top level card security provided by Sagepay. Hence, with the help of the module, customers can enjoy secure online shopping at your store.
 
